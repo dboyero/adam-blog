@@ -1,0 +1,18 @@
+---
+layout: post
+title:  Nuevo
+date:   2022-12-14 13:32:20 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: post-7.jpg # Add image post (optional)
+tags: [Blog, Mountains]
+author: Daniel Boyero # Add name author (optional)
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ex odio, placerat a mattis in, ullamcorper in est. Nam vel bibendum augue. Donec nisl leo, cursus vitae consectetur non, maximus ac urna. Nullam nunc mi, vehicula in dictum at, volutpat eu nisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque faucibus quam ac rhoncus condimentum. Donec rhoncus maximus neque, quis dictum elit fermentum et. Proin sed velit vitae purus blandit feugiat. Praesent elit sem, ultricies ut mauris quis, consectetur sodales tortor. Vestibulum sollicitudin eu nibh vel ornare. Aenean dictum urna nulla, vel lacinia lectus vehicula non. Donec gravida urna metus, ut tincidunt elit imperdiet eget. Duis et eros sed dolor dapibus dignissim a vitae urna. 
+
+> Quisque quis erat id nibh tempus fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse maximus id purus lobortis porttitor. Proin interdum dui arcu, id posuere turpis porta non. Donec at quam porta nibh efficitur vehicula eu a massa. Morbi sagittis tincidunt fermentum. Vestibulum in massa egestas, dapibus ex vel, dignissim nunc. Duis sed ex a felis rhoncus aliquet. Vestibulum sit amet magna turpis. Duis nulla leo, tincidunt vulputate placerat non, malesuada nec magna. 
+
+Duis vitae eros blandit, lobortis massa non, malesuada augue. Curabitur feugiat turpis velit, non pellentesque quam aliquam vel. Mauris faucibus lacus ultrices libero porta dapibus. Proin malesuada, ante at volutpat egestas, augue dolor rutrum nisl, sit amet ullamcorper dolor velit pharetra dui. Etiam dictum eros vel elit accumsan dapibus. Nam bibendum enim tellus, sed scelerisque orci tincidunt et. Proin scelerisque nisi et fringilla tincidunt. 
+
+![Git Map]({{site.baseurl}}/assets/img/git-map.jpg)
+
+Nulla magna mi, eleifend nec purus quis, malesuada tempor nibh. Nulla cursus luctus risus, at lobortis elit congue id. Proin accumsan lorem ac erat dapibus vulputate. Curabitur nibh nunc, elementum nec diam sit amet, viverra viverra magna. Vestibulum ex purus, dignissim et egestas ac, laoreet vel nulla. Mauris porta, magna eu vestibulum sagittis, nibh nunc gravida turpis, vel aliquam diam eros et mauris. Vestibulum ornare fringilla diam ut porttitor. 
